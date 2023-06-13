@@ -7,3 +7,4 @@ still has some limitations, you cannot see the current drive or folder. use the 
 
 ```netsh wlan show profile```
 ```netsh wlan show profile (wifi name) key=clear```
+go to "Key Content"
